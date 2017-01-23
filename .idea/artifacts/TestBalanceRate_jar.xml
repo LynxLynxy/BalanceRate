@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="TestBalanceRate:jar">
+    <output-path>$PROJECT_DIR$/TestBalanceRate_jar</output-path>
+    <root id="archive" name="TestBalanceRate.jar">
+      <element id="module-output" name="TestBalanceRate" />
+    </root>
+  </artifact>
+</component>
